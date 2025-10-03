@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working through deployment issues.
-date: 2025-10-0e 08:08:16
+date: 2025-10-03 08:08:16
 description: Intro Post
 tags: 
 categories: sample-posts
