@@ -1,0 +1,11 @@
+<ul id="toc">
+  {% assign headings = content | split: '<h' %}
+  {% for heading in headings %}
+    {% assign level = heading | slice: 0, 1 | plus: 0 %}
+    {% if level > 1 and level < 5 %}
+      {% assign id = heading | split: 'id="' | last | split: '"' | first %}
+      {% assign title = heading | split: '>' | last | split: '</h' | first %}
+      <li class="toc-level-{{ level }}"><a href="#{{ id }}">{{ title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
