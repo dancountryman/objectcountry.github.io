@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting a new blog.
+Starting a new blog with news1.
