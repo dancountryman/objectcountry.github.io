@@ -73,11 +73,11 @@ ninja.data = [{
           section: "News",},{id: "news-testing-news-3",
           title: 'testing news 3',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-2048-ai-vibe-coding",
+          title: '2048 AI Vibe Coding',
+          description: "2048 made mostly with AI vibe coding",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/2048_ai/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
