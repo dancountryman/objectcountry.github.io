@@ -2,14 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://objectcountry.com/books/the_godfather/</loc>
-<lastmod>2025-10-09T16:08:17-05:00</lastmod>
+<lastmod>2025-10-09T20:42:31-05:00</lastmod>
 </url>
 <url>
-<loc>https://objectcountry.com/news/announcement_1/</loc>
+<loc>https://objectcountry.com/news/news1/</loc>
 <lastmod>2015-10-22T14:59:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://objectcountry.com/news/news2/</loc>
+<lastmod>2025-10-09T11:59:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://objectcountry.com/news/news3/</loc>
 <lastmod>2025-10-09T11:59:00-05:00</lastmod>
 </url>
 <url>
@@ -22,11 +26,11 @@
 </url>
 <url>
 <loc>https://objectcountry.com/projects/1_project/</loc>
-<lastmod>2025-10-09T16:08:17-05:00</lastmod>
+<lastmod>2025-10-09T20:42:31-05:00</lastmod>
 </url>
 <url>
 <loc>https://objectcountry.com/projects/2_project/</loc>
-<lastmod>2025-10-09T16:08:17-05:00</lastmod>
+<lastmod>2025-10-09T20:42:31-05:00</lastmod>
 </url>
 <url>
 <loc>https://objectcountry.com/</loc>
