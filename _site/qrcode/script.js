@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const e=document.getElementById("text-input"),t=document.getElementById("generate-button"),n=document.getElementById("canvas");t.addEventListener("click",()=>{const t=e.value;t&&QRCode.toCanvas(n,t,function(){})})});

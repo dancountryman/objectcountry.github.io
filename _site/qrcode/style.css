@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+#qr-code {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+}
