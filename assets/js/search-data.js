@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-working-through-deployment-issues",
+            },{id: "post-free-qr-code-generator",
+        
+          title: "Free QR Code Generator",
+        
+        description: "Free QR Code Generator",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/FreeQRCodeGenerator/";
+          
+        },
+      },{id: "post-working-through-deployment-issues",
         
           title: "Working through deployment issues.",
         
@@ -83,6 +94,11 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-qrcode-generation",
+          title: 'QRCode generation',
+          description: "generate free QR Codes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/qrcode/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
