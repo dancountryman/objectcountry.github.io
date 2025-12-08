@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-daily-tasks",
+            },{id: "post-ping-pong",
+        
+          title: "Ping Pong",
+        
+        description: "Ping Pong",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/PingPong/";
+          
+        },
+      },{id: "post-daily-tasks",
         
           title: "Daily Tasks",
         
