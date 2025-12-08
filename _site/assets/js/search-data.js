@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-free-qr-code-generator",
+            },{id: "post-daily-tasks",
+        
+          title: "Daily Tasks",
+        
+        description: "Daily Tasks",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/DailyTasks/";
+          
+        },
+      },{id: "post-free-qr-code-generator",
         
           title: "Free QR Code Generator",
         
