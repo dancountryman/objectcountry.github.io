@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-ping-pong",
+            },{id: "post-standups-and-the-lord-39-s-prayer",
+        
+          title: "Standups and the Lord&#39;s Prayer",
+        
+        description: "Standups and the Lord&#39;s Prayer",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/StandupsAndTheLordsPrayer/";
+          
+        },
+      },{id: "post-ping-pong",
         
           title: "Ping Pong",
         
