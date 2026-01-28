@@ -218,6 +218,8 @@ GEM
     unicode-display_width (2.6.0)
     uri (1.0.3)
     webrick (1.9.1)
+    x (0.18.0)
+      base64 (>= 0.2)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -249,6 +251,7 @@ DEPENDENCIES
   ostruct
   terser
   webrick
+  x (~> 0.18.0)
 
 BUNDLED WITH
    2.7.2
