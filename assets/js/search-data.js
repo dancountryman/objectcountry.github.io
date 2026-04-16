@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-standups-and-the-lord-39-s-prayer",
+            },{id: "post-nailcross-watch-face",
+        
+          title: "NailCross Watch Face",
+        
+        description: "About the ZeppOS / Amazafit watch face I made called NailCross",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/NailCrossWatchFace/";
+          
+        },
+      },{id: "post-standups-and-the-lord-39-s-prayer",
         
           title: "Standups and the Lord&#39;s Prayer",
         
